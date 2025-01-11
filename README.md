@@ -1,7 +1,7 @@
 # Cloth Simulation
 
 ## Demo
-
+![Demo.gif](https://github.com/goguma1000/Cloth-Simulation/blob/main/Demo.gif?raw=true)
 ## Code
 
 ### Calculate force
