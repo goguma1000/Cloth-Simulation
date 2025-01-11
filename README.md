@@ -41,7 +41,7 @@ void frame( float dt ) {
 만약 위 loop를 한 프레임당 한 번만 돌린다면 오차가 커지고 system이 불안정해진다.</br>
 이러한 이유 때문에 한 프레임을 적절한 time step으로 나누어 점진적으로 particle의 속도와 위치를 계산해서 system을 더 안정적으로 만든다.</br>
 
-### Rescolve collision
+### Resolve collision
 
 ~~~c++
 struct Plane {
